@@ -41,4 +41,5 @@ namespace Recursive_Function
 ![Screenshot (3)](https://user-images.githubusercontent.com/75235167/170472116-4927ded1-a547-496a-9e2e-35b3ca08c68b.png)
 
 
-## Result:
+##Result:
+Thus C# program to reverse a number using recursive function is written and executed sucessfully.
